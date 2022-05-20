@@ -1,5 +1,6 @@
 0520 MLprog22
 Naoki Mori
+Kensuke Takeda
 Makoto Kimura
 Yuki Inaba
 Keito Omura
@@ -24,4 +25,3 @@ Amane Yamamoto
 Takumi Shiroi
 Koki Kitamori
 Hiroto Tanaka
-
