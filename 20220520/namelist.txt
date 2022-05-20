@@ -1,6 +1,7 @@
 0520 MLprog22
 Naoki Mori
 
+Izumi Omura
 BGA22017 山田大記
 BGA22128 shunya Ogawa
 Katsuki Isobe
@@ -34,3 +35,4 @@ Hiroto Tanaka
 Keigo Kobata
 Hiroto Tanaka
 Kakeru Yoshida
+
