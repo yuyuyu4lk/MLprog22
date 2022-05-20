@@ -1,5 +1,3 @@
 0520 MLprog22
 Naoki Mori
-Riku Higashimura
-Yuya Kanbetsunawa
-Hisanori Fujii
+
