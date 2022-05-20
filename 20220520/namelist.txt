@@ -1,5 +1,6 @@
 0520 MLprog22
 Naoki Mori
+Makoto Kimura
 Yuki Inaba
 Keito Omura
 Yuki Naka
